@@ -1,0 +1,6 @@
+C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
