@@ -23,6 +23,11 @@ namespace ConsoleGame
             set => myLastAction = value;
         }
 
+        public void DoBattleAction(Player aPlayer)
+        {
+            aPlayer.Damage(myDamage);
+        }
+
         public void Damage(float aDamage)
         {
             myHealth -= aDamage;
@@ -52,7 +57,7 @@ namespace ConsoleGame
                 aPlayer.Damage(aPlayer.GetHealth);
         }
 
-        public Ogre(Random aRandom, string aName = "Ogre", float someHealth = 200f, float someDamage = 40, float someCockyness = 50)
+        public Ogre(Random aRandom, string aName = "Ogre", float someHealth = 200f, float someDamage = 5, float someCockyness = 50)
         {
             myRandom = aRandom;
             myName = aName;

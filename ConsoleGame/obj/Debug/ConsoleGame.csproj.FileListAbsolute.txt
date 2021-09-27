@@ -4,3 +4,9 @@ C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\Co
 C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
 C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
 C:\Users\liam.sjoholm.LEARNET\RiderProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Liam\Documents\GitHub\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Liam\Documents\GitHub\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Liam\Documents\GitHub\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Liam\Documents\GitHub\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Documents\GitHub\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Liam\Documents\GitHub\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb

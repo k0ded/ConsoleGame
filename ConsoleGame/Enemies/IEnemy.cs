@@ -9,6 +9,7 @@
         float GetCockyness { get; }
         BattleAction? AccessLastAction { get; set; }
 
+        void DoBattleAction(Player aPlayer);
         void Damage(float aDamage);
         
         void Attack(Player aPlayer);

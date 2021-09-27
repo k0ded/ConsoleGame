@@ -17,7 +17,7 @@ namespace ConsoleGame.Utils
         /// <param name="aType">A <c>TextType</c> which decides what type of format to use!</param>
         /// <param name="aShouldWriteContinue">LETTER MESSAGES ONLY, if you should be able to skip the slow writing of a letter message</param>
         /// <exception cref="ArgumentException">Exception gets thrown when the list is either empty or only contains null values</exception>
-        public static void SendMessage(IReadOnlyList<string> aMessage, TextType aType, bool aShouldWriteContinue = false)
+        public static void SendMessage(IReadOnlyList<string> aMessage, TextType aType)
         {
             // Makes sure the message is Non Null!
             IReadOnlyList<string> tempMessage = aMessage.Where(m => m != null).ToArray();
@@ -142,16 +142,13 @@ namespace ConsoleGame.Utils
         {
             for (var i = 0; i < aMessage.Count; i++)
             {
-                
                 const int tempX = 2;
                 var tempY = Math.Min(i, Console.WindowHeight - 2);
 
                 Console.SetCursorPosition(tempX, tempY);
                 if(aMessage[i] != null)
                     Console.WriteLine(aMessage[i]);
-            
             }
-        
         }
 
         /// <summary>

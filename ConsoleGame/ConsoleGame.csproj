@@ -42,6 +42,10 @@
         <Compile Include="Battling\BattleAction.cs" />
         <Compile Include="Enemies\IEnemy.cs" />
         <Compile Include="Enemies\Ogre.cs" />
+        <Compile Include="Inventory.cs" />
+        <Compile Include="Items\HealthPotion.cs" />
+        <Compile Include="Items\IItem.cs" />
+        <Compile Include="Items\ItemStack.cs" />
         <Compile Include="Player.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
